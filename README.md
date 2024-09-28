@@ -1,4 +1,8 @@
-![logo](https://github.com/niteshkumar977/niteshkumar977/blob/main/Data_analytics.png)
+
+<img src="https://github.com/niteshkumar977/niteshkumar977/blob/main/Data_analytics.png" align="center" alt="Banner Image" height = "400" width = "1000">
+
+
+
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
 <h3 align="center">"Empowering Insights and Driving Innovation: 20+ Years of Data Science Excellence and Analytical Expertise"</h3>
 
