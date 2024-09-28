@@ -1,4 +1,4 @@
-![logo](https://pikbest.com/backgrounds/data-analytics-web-banner-and-business-chart-mockup-featuring-a-3d-rendered-seo-user-interface_9621529.html
+![logo](https://github.com/niteshkumar977/niteshkumar977/blob/main/Data_analytics.png)
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
 <h3 align="center">"Empowering Insights and Driving Innovation: 20+ Years of Data Science Excellence and Analytical Expertise"</h3>
 
