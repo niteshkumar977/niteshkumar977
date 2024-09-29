@@ -14,7 +14,8 @@
 
 - 🌱 I’m currently learning **TensorFlow for Deep Learning**
 
-- 💬 Ask me about **Python, MySQL, Machine Learning, Gen AI,AW, Predictive Analytics, Data Visualization,Metabase,Power BI, Tableau**
+- 💬 Ask me about **Python, MySQL, Machine Learning, Gen AI,AW, Predictive Analytics, Data Visualization,Metabase,
+-                   Power BI, Tableau**
 
 - 📫 How to reach me **nitesh_kumar977@yahoo.co.in**
 
