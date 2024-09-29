@@ -20,6 +20,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nitesh-kumar-9269b25/](https://www.linkedin.com/in/nitesh-kumar-9269b25/)
 
+- 📄 Know about my projects [https://gist.github.com/niteshkumar977/2e93e237a7bde1c451c80eddd2464159)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nitesh-kumar-9269b25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitesh-kumar-9269b25" height="30" width="40" /></a>
