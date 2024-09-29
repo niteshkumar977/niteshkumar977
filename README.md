@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **nitesh_kumar977@yahoo.co.in**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nitesh-kumar-9269b25/](https://www.linkedin.com/in/niteshkumar977/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/niteshkumar977/)
 
 - 📄 Know about my projects [https://gist.github.com/niteshkumar977/2e93e237a7bde1c451c80eddd2464159)
 
