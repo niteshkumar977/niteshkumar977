@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
-<h3 align="center">"Empowering Insights and Driving Innovation: 20+ Years of Data Science Excellence and Analytical Expertise"</h3>
+<h3 align="center">"Empowering Insights and Driving Innovation: 15+ Years of Data Science Excellence and Analytical Expertise"</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXB6MXlpeDd5dXI4aWxxcm0zYmdsMGNtNnU1Zms2cDlpYzVtaWp4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
