@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python, MySQL, Machine Learning, Gen AI,AWS, Predictive Analytics, Data Visualization,Metabase,Power BI, Tableau**
 
-- 📫 How to reach me **nitesh_kumar977@yahoo.co.in / 9990070261**
+- 📫 How to reach me **nitesh_kumar977@yahoo.co.in / +91-9990070261**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/niteshkumar977/)
 
