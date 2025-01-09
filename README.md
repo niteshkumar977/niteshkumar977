@@ -4,17 +4,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
-<h3 align="center">"Empowering Insights and Driving Innovation: 15+ Years of Data Science Excellence and Analytical Expertise"</h3>
+<h3 align="center">"Empowering Insights and Driving Innovation: 20+ Years of Excellence in Data Science,AI/ML & Analytical Expertise"</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXB6MXlpeDd5dXI4aWxxcm0zYmdsMGNtNnU1Zms2cDlpYzVtaWp4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshkumar977&label=Profile%20views&color=0e75b6&style=flat" alt="niteshkumar977" /> </p>
 
-- 🔭 I’m currently working on **Gen AI based applications**
+- 🔭 I’m currently working on **Gen AI based applications & AI chatbots**
 
 - 🌱 I’m currently learning **TensorFlow for Deep Learning**
 
-- 💬 Ask me about **Python, MySQL, Machine Learning, Gen AI,AWS, Predictive Analytics, Data Visualization,Metabase,Power BI, Tableau**
+- 💬 Ask me about **Python, MySQL, Machine Learning, Deep Learning, CNN,RNN,Time Seried, Gen AI,NLP, AI chatbots,AWS, Predictive Analytics, Data Visualization,Metabase,Power BI, Tableau,Blockchain, Internet of Things (IoT)**
 
 - 📫 How to reach me **nitesh_kumar977@yahoo.co.in / +91-9990070261**
 
