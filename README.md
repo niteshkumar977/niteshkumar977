@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **TensorFlow for Deep Learning**
 
-- 💬 Ask me about **Python, MySQL, Machine Learning, Deep Learning, CNN,RNN,Time Series, Gen AI,NLP, AI chatbots,AWS, Predictive Analytics, Data Visualization,Metabase,Power BI, Tableau,Blockchain, Internet of Things (IoT)**
+- 💬 Ask me about **Python, MySQL, Machine Learning, Deep Learning, TensorFlow, CNN,RNN,Time Series, Gen AI,NLP, AI chatbots,AWS, Predictive Analytics, Data Visualization,Metabase,Power BI, Tableau,Blockchain, Internet of Things (IoT)**
 
 - 📫 How to reach me **nitesh_kumar977@yahoo.co.in / +91-9990070261**
 
